@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Alice Johnson",
+    "email": "alice@example.com",
+    "enrollment_date": "01/15/2024",
+    "course": "Full Stack Development",
+    "status": "active",
+    "extraField1": "unused",
+    "notes": ""
+  },
+  {
+    "name": "alice johnson",
+    "email": "ALICE@EXAMPLE.COM",
+    "enrollment_date": "2024-01-15",
+    "course": "Full Stack Development",
+    "status": "active",
+    "extraField1": "unused"
+  },
+  {
+    "name": "Bob Smith",
+    "email": "bob@example.com",
+    "enrollment_date": "March 5, 2024",
+    "course": " React & Node ",
+    "status": "Active",
+    "phone": "123-456-7890",
+    "extraField2": null
+  },
+  {
+    "name": "Charlie Davis",
+    "email": "charlie@example.com",
+    "enrollment_date": "2024/02/20",
+    "course": "Python for Data Science",
+    "status": "active",
+    "unusedField": "test"
+  },
+  {
+    "name": "charlie davis",
+    "email": "Charlie@Example.com",
+    "enrollment_date": "20-02-2024",
+    "course": "Python for Data Science",
+    "status": "Active"
+  },
+  {
+    "name": "Diana Lee",
+    "email": "diana@example.com",
+    "enrollment_date": "04-10-2024",
+    "course": "UI/UX Design",
+    "status": "completed",
+    "phone": "",
+    "address": "N/A"
+  },
+  {
+    "name": "Evan Taylor",
+    "email": "evan@example.com",
+    "enrollment_date": "May 1 2024",
+    "course": "DevOps Engineering",
+    "status": "inactive",
+    "metadata": { "source": "legacy" }
+  },
+  {
+    "name": "Fiona Brown",
+    "email": "fiona@example.com",
+    "enrollment_date": "2024.06.15",
+    "course": "Mobile App Dev",
+    "status": "active"
+  },
+  {
+    "name": "George Kim",
+    "email": "george@example.com",
+    "enrollment_date": "07/22/2024",
+    "course": "Cloud Computing",
+    "status": "active",
+    "legacyId": 12345
+  },
+  {
+    "name": "Hannah Patel",
+    "email": "hannah@example.com",
+    "enrollment_date": "Aug 30, 2024",
+    "course": "Cybersecurity Fundamentals",
+    "status": "active"
+  }
+]
