@@ -16,7 +16,19 @@ const app = express();
 // Middleware
 app.use(
   cors({
-    origin: process.env.FRONTEND_URL || "*",
+    origin: function (origin, callback) {
+      // Allow requests with no origin (mobile apps, curl, etc.)
+      if (!origin) return callback(null, true);
+      const allowed = (process.env.FRONTEND_URL || "").split(",").map((u) => u.trim());
+      if (allowed.includes(origin) || allowed.includes("*")) {
+        return callback(null, true);
+      }
+      // Also allow any *.vercel.app preview deploys
+      if (origin.endsWith(".vercel.app")) {
+        return callback(null, true);
+      }
+      callback(new Error("Not allowed by CORS"));
+    },
     credentials: true,
   })
 );
