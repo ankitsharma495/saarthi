@@ -12,7 +12,23 @@ The system is designed to handle **real-world messy data**, enforce **role-based
 
 ---
 
-## 🛠️ Tech Stack
+## � Screenshots
+
+### Landing Page — Mentorship Program
+![Landing Page](frontend/public/Screenshot%202026-04-13%20110046.png)
+
+### Mentor Dashboard — Student Management & Review Submission
+![Mentor Dashboard](frontend/public/Screenshot%202026-04-13%20110059.png)
+
+### Review History with AI-Generated Summaries
+![Review History](frontend/public/Screenshot%202026-04-13%20110109.png)
+
+### Student Dashboard — Progress & Feedback
+![Student Dashboard](frontend/public/Screenshot%202026-04-13%20110225.png)
+
+---
+
+## �🛠️ Tech Stack
 
 | Layer    | Technology                              |
 | -------- | --------------------------------------- |
@@ -342,18 +358,4 @@ Aspiring Full Stack Developer 🚀
 
 ---
 
-## 📸 Screenshots
 
-### Landing Page — Mentorship Program
-![Landing Page](frontend/public/Screenshot%202026-04-13%20110046.png)
-
-### Mentor Dashboard — Student Management & Review Submission
-![Mentor Dashboard](frontend/public/Screenshot%202026-04-13%20110059.png)
-
-### Review History with AI-Generated Summaries
-![Review History](frontend/public/Screenshot%202026-04-13%20110109.png)
-
-### Student Dashboard — Progress & Feedback
-![Student Dashboard](frontend/public/Screenshot%202026-04-13%20110225.png)
-
----
