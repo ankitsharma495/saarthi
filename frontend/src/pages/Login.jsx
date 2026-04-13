@@ -88,7 +88,7 @@ export default function Login() {
             <strong>Mentor:</strong> mentor@test.com / password123
           </p>
           <p className="text-xs text-gray-600">
-            <strong>Student:</strong> student@test.com / password123
+            <strong>Student:</strong> rahul@example.com / password123
           </p>
         </div>
       </div>
