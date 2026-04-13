@@ -341,3 +341,19 @@ This project demonstrates:
 Aspiring Full Stack Developer 🚀
 
 ---
+
+## 📸 Screenshots
+
+### Landing Page — Mentorship Program
+![Landing Page](frontend/public/Screenshot%202026-04-13%20110046.png)
+
+### Mentor Dashboard — Student Management & Review Submission
+![Mentor Dashboard](frontend/public/Screenshot%202026-04-13%20110059.png)
+
+### Review History with AI-Generated Summaries
+![Review History](frontend/public/Screenshot%202026-04-13%20110109.png)
+
+### Student Dashboard — Progress & Feedback
+![Student Dashboard](frontend/public/Screenshot%202026-04-13%20110225.png)
+
+---
